@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeserializerJsonToDictionar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeserializerJsonToJson", "DeserializerJsonToJson\DeserializerJsonToJson.csproj", "{D439048D-006C-4D56-8ABC-13404947500E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeserializerGenericRecordToDictionary", "DeserializerGenericRecordToDictionary\DeserializerGenericRecordToDictionary.csproj", "{A47B66D4-C908-4797-8CCF-72F421E9DD64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeserializerGenericRecordToDictionary", "DeserializerGenericRecordToDictionary\DeserializerGenericRecordToDictionary.csproj", "{A47B66D4-C908-4797-8CCF-72F421E9DD64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeserializerRawToRaw", "DeserializerRawToRaw\DeserializerRawToRaw.csproj", "{64BCE1DA-D066-4F12-BA8B-AD667CB7A1B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{A47B66D4-C908-4797-8CCF-72F421E9DD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A47B66D4-C908-4797-8CCF-72F421E9DD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A47B66D4-C908-4797-8CCF-72F421E9DD64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64BCE1DA-D066-4F12-BA8B-AD667CB7A1B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64BCE1DA-D066-4F12-BA8B-AD667CB7A1B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64BCE1DA-D066-4F12-BA8B-AD667CB7A1B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64BCE1DA-D066-4F12-BA8B-AD667CB7A1B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
